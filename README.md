@@ -6,9 +6,9 @@
 
 请打开右侧或页面下方的 **Releases**，下载最新版本：
 
-- Windows 安装版：文件名包含 `Windows-x64-安装版.exe`
-- Windows 便携版：文件名包含 `Windows-x64-便携版.zip`
-- Android：文件名包含 `Android.apk`
+- Windows 安装版：`one-small-step_1.3.2_Windows-x64-Setup.exe`
+- Windows 便携版：`one-small-step_1.3.2_Windows-x64-Portable.zip`
+- Android：`one-small-step_1.3.2_Android.apk`
 
 安装包不会把个人记录上传到本仓库。应用数据默认保存在使用设备本地；跨设备迁移请使用应用内的备份导出与导入。
 
@@ -30,5 +30,3 @@
 本软件由个人开发者圣诞蛾发布，不用于盈利；软件版权归圣诞蛾所有。本仓库只分发官方安装包，不公开应用源代码。允许个人非商业使用及分享未经修改的官方安装包。署名、许可条件和责任限制请查看 [NOTICE.md](NOTICE.md) 与 [LICENSE.txt](LICENSE.txt)。
 
 开发过程中使用了 AI 辅助编程与测试；产品设计、功能取舍和发布决定由开发者圣诞蛾负责。
-
-
